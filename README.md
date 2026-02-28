@@ -25,9 +25,9 @@ I partner with engineering and design to ship products that are technically soun
 |---|---|---|
 | 🗂️ [PRD: Enterprise CMS Platform Migration](https://github.com/thedmons/prd-cms-platform-migration) | End-to-end product requirements for migrating a 500+ page FinTech web platform from a legacy monolithic CMS to a modern composable stack — covering architecture, OKRs, personas, risks, and success metrics | Platform / Fintech |
 | 🗂️ [PRD: E-Commerce CMS Platform Migration](https://github.com/thedmons/prd-ecommerce-cms-migration) | Product requirements for migrating a large home improvement retailer's 250+ page e-commerce web presence from Adobe Experience Manager to an in-house headless CMS on Google Cloud — covering SEO restructuring, mobile performance, on-prem to cloud infrastructure, and cross-functional stakeholder alignment | Platform / E-Commerce |
+| 🧪 [A/B Test: AI-Generated Blog Post Summarization](https://github.com/thedmons/ab-test-ai-summarization) | Full experiment design, results, and decision rationale for a 5-week A/B test evaluating an AI summarization CTA feature on long-form FinTech blog content — including inconclusive results analysis and a data-informed ship decision | Fintech / AI |
 | 📊 Retention Analysis *(coming soon)* | SQL + Python cohort analysis exploring user drop-off | Analytics |
 | 🔌 API Spec *(coming soon)* | Technical spec for a platform API integration | Platform |
-| 🧪 A/B Test Design *(coming soon)* | Experiment design doc with hypothesis, metrics, and statistical approach | Fintech |
 | 🏛️ System Design *(coming soon)* | Architecture diagram and tradeoff analysis for a core product system | Infrastructure |
 
 *More projects added regularly — check back or ⭐ star this repo to follow along.*
