@@ -58,7 +58,7 @@ Opportunity sizing  API contracts     Stakeholder mgmt    Retrospectives
 
 ## 📬 Let's Connect
 
-I'm actively looking for Senior PM and Principal PM roles — Seattle-based or remote. I'm especially drawn to platform, infrastructure, and fintech teams where technical depth is a real advantage, not just a nice-to-have.
+I'm actively looking for a Senior PM role — Seattle-based or remote. I'm especially drawn to platform, infrastructure, and feature teams where technical depth is a real advantage, not just a nice-to-have.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/thomasedmons)
 - 📧 [thomas-edmons@outlook.com](mailto:thomas-edmons@outlook.com)
