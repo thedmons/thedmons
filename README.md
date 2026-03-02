@@ -1,17 +1,22 @@
 # Hi, I'm Thomas Edmons 👋
 
-I'm a Senior Product Manager with 7+ years building consumer products, platform infrastructure, and fintech solutions. My background in software engineering and UX design means I work directly in the details — from API contracts and system architecture to user flows and product metrics — not just above them. I created this portfolio to share how I think, how I work, and what I build.
+I'm a Senior Product Manager with 7+ years building platform infrastructure, fintech products, and e-commerce systems — with a background in data analysis and project management that means I was working in the details long before I had the title.
+
+At **Ally Financial**, I've led platform modernization across the digital product org — owning roadmaps for API integrations, a migration to React/Next.js, and a headless CMS adoption that modernized how millions of customers interact with financial products online. 
+At **Lowe's**, I led the migration of 250+ e-commerce pages off a platform that had failed during Black Friday — rebuilding on a headless CMS and Google Cloud architecture that improved mobile performance, SEO, and conversion.
+
+I'm the team's translator — I turn complex technical and organizational challenges into clear product decisions and break down that work into language stakeholders can act on. I thrive tackling initiatives that are technically demanding, cross-functionally messy, and high-stakes enough that most PMs step back. That's where I do my best work — and where I help teams avoid the headaches that come from getting those tradeoffs wrong.
 
 ---
 
 ## 🧠 What I Do
 
-I partner with engineering and design to ship products that are technically sound and meaningfully useful. My edge is being comfortable on both sides of the whiteboard — I can write a PRD, review a pull request, sketch a wireframe, and define a data model in the same day.
+I partner with engineering and design to ship products that are technically sound and impactful to both internal and external customers. My edge is being comfortable on both sides of the whiteboard — I can write a PRD, review code, sketch a wireframe, and define a data model in the same day.
 
 **Where I've worked:**
-- 🛍️ **Consumer / B2C** — shipped features at scale to millions of users, with a strong focus on activation, retention, and engagement
-- 🏗️ **Platform / Infrastructure** — built developer-facing APIs, internal tooling, and systems that other teams depend on
-- 💳 **Fintech** — navigated regulatory constraints, fraud tradeoffs, and the nuance of building trust in financial products
+- 🏗️ **Platform / Infrastructure** — APIs, headless CMS migrations, cloud-native architecture, and systems that other teams depend on
+- 💳 **Fintech** — navigated regulatory constraints, technology modernization, and the nuance of building trust in financial products
+- 🛍️ **E-Commerce** — shipped features at scale with a focus on performance, SEO, and conversion
 
 ---
 
@@ -43,15 +48,17 @@ Competitive anal.   Tech specs        Eng. partnership    Experimentation
 Opportunity sizing  API contracts     Stakeholder mgmt    Retrospectives
 ```
 
-**Tools I live in:** Figma · JIRA · Notion · Mixpanel · Amplitude · SQL · GitHub · Postman
+**Stack fluency:** React · Next.js · Headless CMS · AEM · REST APIs · SQL · Apigee · Kong Gateway · Adobe Analytics · Figma · JIRA · Confluence · Qualtrics · TypeScript
 
-**I can hold my own with:** Python (pandas, notebooks) · REST API design · System architecture · Basic data modeling
+**I can hold my own with:** PowerBI · DAX · Tableau · System architecture · API contract design · Basic data modeling
+
+**Domains:** Platform / Infrastructure · FinTech · E-Commerce · Consumer
 
 ---
 
 ## 📬 Let's Connect
 
-I'm currently open to Principal PM and Senior PM roles across consumer, platform, and fintech — and actively exploring opportunities in adjacent domains where my technical depth adds leverage.
+I'm actively looking for Senior PM and Principal PM roles — Seattle-based or remote. I'm especially drawn to platform, infrastructure, and fintech teams where technical depth is a real advantage, not just a nice-to-have.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/thomasedmons)
 - 📧 [thomas-edmons@outlook.com](mailto:thomas-edmons@outlook.com)
