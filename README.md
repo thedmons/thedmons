@@ -2,8 +2,7 @@
 
 I'm a Senior Product Manager with 7+ years building platform infrastructure, fintech products, and e-commerce systems — with a background in data analysis and project management that means I was working in the details long before I had the title.
 
-At **Ally Financial**, I've led platform modernization across the digital product org — owning roadmaps for API integrations, a migration to React/Next.js, and a headless CMS adoption that modernized how millions of customers interact with financial products online. 
-At **Lowe's**, I led the migration of 250+ e-commerce pages off a platform that had failed during Black Friday — rebuilding on a headless CMS and Google Cloud architecture that improved mobile performance, SEO, and conversion.
+At **Ally Financial**, I've led platform modernization across the digital product org — owning roadmaps for API integrations, a migration to React/Next.js, and a headless CMS adoption that modernized how millions of customers interact with financial products online. At **Lowe's**, I led the migration of 250+ e-commerce pages off a platform that had failed during Black Friday — rebuilding on a headless CMS and Google Cloud architecture that improved mobile performance, SEO, and conversion.
 
 I'm the team's translator — I turn complex technical and organizational challenges into clear product decisions and break down that work into language stakeholders can act on. I thrive tackling initiatives that are technically demanding, cross-functionally messy, and high-stakes enough that most PMs step back. That's where I do my best work — and where I help teams avoid the headaches that come from getting those tradeoffs wrong.
 
@@ -11,11 +10,11 @@ I'm the team's translator — I turn complex technical and organizational challe
 
 ## 🧠 What I Do
 
-I partner with engineering and design to ship products that are technically sound and impactful to both internal and external customers. My edge is being comfortable on both sides of the whiteboard — I can write a PRD, review code, sketch a wireframe, and define a data model in the same day.
+I partner with engineering and design to ship products that are technically sound and meaningfully useful. My edge is being comfortable on both sides of the whiteboard — I can write a PRD, review a pull request, sketch a wireframe, and define a data model in the same day.
 
 **Where I've worked:**
 - 🏗️ **Platform / Infrastructure** — APIs, headless CMS migrations, cloud-native architecture, and systems that other teams depend on
-- 💳 **Fintech** — navigated regulatory constraints, technology modernization, and the nuance of building trust in financial products
+- 💳 **Fintech** — navigated regulatory constraints, fraud tradeoffs, and the nuance of building trust in financial products
 - 🛍️ **E-Commerce** — shipped features at scale with a focus on performance, SEO, and conversion
 
 ---
@@ -58,8 +57,9 @@ Opportunity sizing  API contracts     Stakeholder mgmt    Retrospectives
 
 ## 📬 Let's Connect
 
-I'm actively looking for a Senior PM role — Seattle-based or remote. I'm especially drawn to platform, infrastructure, and feature teams where technical depth is a real advantage, not just a nice-to-have.
+I'm actively looking for Senior PM and Principal PM roles — Seattle-based or remote. I'm especially drawn to platform, infrastructure, and fintech teams where technical depth is a real advantage, not just a nice-to-have.
 
+- 📄 [Resume (PDF)](https://1drv.ms/b/c/94960aad81e0c3f1/IQC-TMFqFd8fQ5T47ATDHqB_AW3n4xe1RMD5DCJTWECYHes?e=brzg4l)
 - 💼 [LinkedIn](https://www.linkedin.com/in/thomasedmons)
 - 📧 [thomas-edmons@outlook.com](mailto:thomas-edmons@outlook.com)
 
