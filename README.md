@@ -1,8 +1,6 @@
 # Hi, I'm Thomas Edmons 👋
 
-I'm a Senior Product Manager with 7+ years building consumer products, platform infrastructure, and fintech solutions. My background in software engineering and UX design means I work directly in the details — from API contracts and system architecture to user flows and product metrics — not just above them.
-
-I created this portfolio to share how I think, how I work, and what I build.
+I'm a Senior Product Manager with 7+ years building consumer products, platform infrastructure, and fintech solutions. My background in software engineering and UX design means I work directly in the details — from API contracts and system architecture to user flows and product metrics — not just above them. I created this portfolio to share how I think, how I work, and what I build.
 
 ---
 
@@ -30,6 +28,7 @@ I partner with engineering and design to ship products that are technically soun
 | 🔌 [API Spec: Apigee Proxy — Marketo REST API](https://github.com/thedmons/api-spec_marketo-proxy) | Technical API specification for an Apigee proxy layer abstracting Marketo REST API credentials from consumers — covering SSO auth enforcement, OAuth 2.0 token lifecycle management, request transformation, field mapping, rate limiting, and error normalization | Platform / Fintech |
 | 🗂️ [PRD: FinTech Consumer Content Hub](https://github.com/thedmons/prd-content-hub) | Product requirements for the MVP launch of a consumer financial content hub migrated from a disconnected WordPress blog into AEM — covering content model, taxonomy, SEO, accessibility, tagging, feature prioritization, content migration strategy, and a phased roadmap through engagement, personalization, and delight | Consumer / Fintech |
 | 🏛️ [System Design: FinTech Consumer Content Hub](https://github.com/thedmons/system-design-content-hub) | AEM component architecture for a FinTech consumer content hub — covering author/publish/delivery tier design, component library, content model, JCR taxonomy, authoring pipeline, Dispatcher caching strategy, search and analytics integration, and a phased future state evolution through personalization and authenticated experiences | Consumer / Fintech |
+| 🗂️ [PRD: Visual Stories](https://github.com/thedmons/prd-visual-stories) | Feature PRD for Visual Stories — a short-form, mobile-optimized content format for a FinTech consumer content hub. Phase 4 of the content hub roadmap, covering Editorial and Merchandising story types, AEM content model, CTA pathing logic, navigation constraints, and a phased future state through motion graphics, polls, and native app | Consumer / Fintech |
 
 *More projects added regularly — check back or ⭐ star this repo to follow along.*
 
@@ -38,10 +37,10 @@ I partner with engineering and design to ship products that are technically soun
 ## 🛠️ How I Work
 
 ```
-Discovery        →   Define         →   Deliver        →   Measure
-User research        PRDs               Sprint planning    Dashboards
-Competitive anal.    Tech specs         Eng. partnership   Experimentation
-Opportunity sizing   API contracts      Stakeholder mgmt   Retrospectives
+Discovery → Define → Deliver → Measure
+User research       PRDs              Sprint planning     Dashboards
+Competitive anal.   Tech specs        Eng. partnership    Experimentation
+Opportunity sizing  API contracts     Stakeholder mgmt    Retrospectives
 ```
 
 **Tools I live in:** Figma · JIRA · Notion · Mixpanel · Amplitude · SQL · GitHub · Postman
