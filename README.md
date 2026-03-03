@@ -2,15 +2,15 @@
 
 I'm a Senior Product Manager with 7+ years building platform infrastructure, fintech products, and e-commerce systems — with a background in data analysis and project management that means I was working in the details long before I had the title.
 
-At **Ally Financial**, I've led platform modernization across the digital product org — owning roadmaps for API integrations, a migration to React/Next.js, and a headless CMS adoption that modernized how millions of customers interact with financial products online. At **Lowe's**, I led the migration of 250+ e-commerce pages off a platform that had failed during Black Friday — rebuilding on a headless CMS and Google Cloud architecture that improved mobile performance, SEO, and conversion.
+At **Ally Financial**, I've led platform modernization across the digital product org — owning roadmaps for API integrations, a migration to React/Next.js, and a headless CMS adoption that modernized how millions of customers interact with financial products online. I also led the 0-to-1 build of the consumer content platform — taking it from a disconnected WordPress blog into a full editorial destination on AEM, then serving as the strategic lead for its evolution onto our new React/Next.js headless stack, making it the first property in the org to complete that migration. 
 
-I'm the team's translator — I turn complex technical and organizational challenges into clear product decisions and break down that work into language stakeholders can act on. I thrive tackling initiatives that are technically demanding, cross-functionally messy, and high-stakes enough that most PMs step back. That's where I do my best work — and where I help teams avoid the headaches that come from getting those tradeoffs wrong.
+At **Lowe's**, I led the migration of 250+ e-commerce pages off a platform that had failed during Black Friday — rebuilding on a headless CMS and Google Cloud architecture that improved mobile performance, SEO, and conversion.
 
 ---
 
 ## 🧠 What I Do
 
-I partner with engineering and design to ship products that are technically sound and meaningfully useful. My edge is being comfortable on both sides of the whiteboard — I can write a PRD, review a pull request, sketch a wireframe, and define a data model in the same day.
+I'm the team's translator — I turn complex technical and organizational challenges into clear product decisions and break down that work into language stakeholders can act on. I thrive tackling initiatives that are technically demanding, cross-functionally messy, and high-stakes enough that most PMs step back. That's where I do my best work — and where I help teams avoid the headaches that come from getting those tradeoffs wrong.
 
 **Where I've worked:**
 - 🏗️ **Platform / Infrastructure** — APIs, headless CMS migrations, cloud-native architecture, and systems that other teams depend on
