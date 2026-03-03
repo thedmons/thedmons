@@ -2,9 +2,7 @@
 
 I'm a Senior Product Manager with 7+ years building platform infrastructure, fintech products, and e-commerce systems — with a background in data analysis and project management that means I was working in the details long before I had the title.
 
-At **Ally Financial**, I've led platform modernization across the digital product org — owning roadmaps for API integrations, a migration to React/Next.js, and a headless CMS adoption that modernized how millions of customers interact with financial products online. I also led the 0-to-1 build of the consumer content platform — taking it from a disconnected WordPress blog into a full editorial destination on AEM, then serving as the strategic lead for its evolution onto our new React/Next.js headless stack, making it the first property in the org to complete that migration. 
-
-At **Lowe's**, I led the migration of 250+ e-commerce pages off a platform that had failed during Black Friday — rebuilding on a headless CMS and Google Cloud architecture that improved mobile performance, SEO, and conversion.
+At **Ally Financial**, I've led platform modernization across the digital product org — owning roadmaps for API integrations, a migration to React/Next.js, and a headless CMS adoption that modernized how millions of customers interact with financial products online. I also led the 0-to-1 build of the consumer content platform — taking it from a disconnected WordPress blog into a full editorial destination on AEM, then serving as the strategic lead for its evolution onto our new React/Next.js headless stack, making it the first property in the org to complete that migration. At **Lowe's**, I led the migration of 250+ e-commerce pages off a platform that had failed during Black Friday — rebuilding on a headless CMS and Google Cloud architecture that improved mobile performance, SEO, and conversion.
 
 ---
 
@@ -14,7 +12,7 @@ I'm the team's translator — I turn complex technical and organizational challe
 
 **Where I've worked:**
 - 🏗️ **Platform / Infrastructure** — APIs, headless CMS migrations, cloud-native architecture, and systems that other teams depend on
-- 💳 **Fintech** — navigated regulatory constraints, fraud tradeoffs, and the nuance of building trust in financial products
+- 💳 **Fintech** — navigated regulatory constraints, compliance requirements, and the nuance of building trust in financial products
 - 🛍️ **E-Commerce** — shipped features at scale with a focus on performance, SEO, and conversion
 
 ---
@@ -33,6 +31,7 @@ I'm the team's translator — I turn complex technical and organizational challe
 | 🗂️ [PRD: FinTech Consumer Content Hub](https://github.com/thedmons/prd-content-hub) | Product requirements for the MVP launch of a consumer financial content hub migrated from a disconnected WordPress blog into AEM — covering content model, taxonomy, SEO, accessibility, tagging, feature prioritization, content migration strategy, and a phased roadmap through engagement, personalization, and delight | Consumer / Fintech |
 | 🏛️ [System Design: FinTech Consumer Content Hub](https://github.com/thedmons/system-design-content-hub) | AEM component architecture for a FinTech consumer content hub — covering author/publish/delivery tier design, component library, content model, JCR taxonomy, authoring pipeline, Dispatcher caching strategy, search and analytics integration, and a phased future state evolution through personalization and authenticated experiences | Consumer / Fintech |
 | 🗂️ [PRD: Visual Stories](https://github.com/thedmons/prd-visual-stories) | Feature PRD for Visual Stories — a short-form, mobile-optimized content format for a FinTech consumer content hub. Phase 4 of the content hub roadmap, covering Editorial and Merchandising story types, AEM content model, CTA pathing logic, navigation constraints, and a phased future state through motion graphics, polls, and native app | Consumer / Fintech |
+| 🗂️ [PRD: Email & SMS Signup Toast](https://github.com/thedmons/prd-email-sms-signup-toast) | Feature PRD for the first native email and SMS subscriber acquisition mechanism on a large e-commerce platform — a first-visit toast with DIY/Pro segmentation, mobile SMS variant, cookie-based suppression, and A/B test validation — replacing offline and third-party acquisition with an owned digital channel | E-Commerce |
 
 *More projects added regularly — check back or ⭐ star this repo to follow along.*
 
