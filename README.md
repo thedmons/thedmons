@@ -55,7 +55,7 @@ Working prototypes built independently using AI-assisted coding — no engineeri
 ## 📬 Let's Connect
 I'm actively looking for Senior PM and Principal PM roles — Seattle-based or remote. I'm especially drawn to platform, infrastructure, and fintech teams where technical depth is a real advantage, not just a nice-to-have.
 
-📄 Resume (PDF)
+📄 [Resume (PDF)](https://1drv.ms/b/c/94960aad81e0c3f1/IQC-TMFqFd8fQ5T47ATDHqB_AW3n4xe1RMD5DCJTWECYHes?e=PhJPU6)
 💼 [LinkedIn](https://linkedin.com/in/thomasedmons)
 📧 thomas-edmons@outlook.com
 
