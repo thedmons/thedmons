@@ -30,6 +30,7 @@ I partner with engineering and design to ship products that are technically soun
 | 🔌 [API Spec: Apigee Proxy — Marketo REST API](https://github.com/thedmons/api-spec_marketo-proxy) | Technical API specification for an Apigee proxy layer abstracting Marketo REST API credentials from consumers — covering SSO auth enforcement, OAuth 2.0 token lifecycle management, request transformation, field mapping, rate limiting, and error normalization | Platform / Fintech |
 | 🗂️ [PRD: FinTech Consumer Content Hub](https://github.com/thedmons/prd-content-hub) | Product requirements for the MVP launch of a consumer financial content hub migrated from a disconnected WordPress blog into AEM — covering content model, taxonomy, SEO, accessibility, tagging, feature prioritization, content migration strategy, and a phased roadmap through engagement, personalization, and delight | Consumer / Fintech |
 | 🏛️ [System Design: FinTech Consumer Content Hub](https://github.com/thedmons/system-design-content-hub) | AEM component architecture for a FinTech consumer content hub — covering author/publish/delivery tier design, component library, content model, JCR taxonomy, authoring pipeline, Dispatcher caching strategy, search and analytics integration, and a phased future state evolution through personalization and authenticated experiences | Consumer / Fintech |
+| 🗂️ [PRD: Installation Services Lead Capture Widget](https://github.com/thedmons/prd-installation-services-widget) | Product requirements for a configurable, stepped-form widget designed to replace 40+ individually maintained installation service forms across 7 categories on a large home improvement retailer's e-commerce platform — including service type architecture, adaptive UX flow, Microsoft Dynamics CRM consolidation, CAAS config dashboard, API spec, and system design | Platform / E-Commerce |
 
 *More projects added regularly — check back or ⭐ star this repo to follow along.*
 
@@ -41,7 +42,7 @@ I partner with engineering and design to ship products that are technically soun
 
 | Project | Description | Domain |
 |---|---|---|
-| ⚙️ [POC: CaaS Install Widget](https://github.com/thedmons/caas-widget-poc) | Working React prototype of a Content as a Service install widget — built independently with AI assistance over ~2 days to validate API feasibility and close the loop between a system design, API spec, and a runnable artifact. No engineering sprint required. | Platform / Fintech |
+|⚙️ POC: [CaaS Install Widget](https://github.com/thedmons/caas-widget-poc) | Working React prototype of a configurable installation services lead capture widget — built independently with AI assistance over ~2 days to validate the adaptive flow, service type logic, and API feasibility defined in the PRD and system design. Closes the loop between product specification and a runnable artifact without an engineering sprint. | Platform / E-Commerce |
 
 ---
 
